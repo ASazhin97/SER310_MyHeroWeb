@@ -1,6 +1,7 @@
 h1 {
-  color: #009900;
+  color: whitesmoke;
   font-family: Georgia, sans-serif;
+  background-color: black;
 }
 
 .jumbatron text-center{
@@ -8,5 +9,8 @@ h1 {
 }
 
 .title {
-    color: red;
+    color: whitesmoke;
+    font-family: fantasy;
+    font-size: 50pt;
+    text-align: center;
 }
