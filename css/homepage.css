@@ -49,10 +49,10 @@ p {
 
 .missionTextSquare{
   position: absolute;
-  top: 40%;
+  top: 30%;
   left: 8%;
   width: 35%;
-  height: 40%;
+  height: 53%;
   margin : 1%;
   border: 5px solid rgba(0, 0, 0, 0);
   background-color: black;
