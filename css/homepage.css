@@ -49,8 +49,7 @@ p {
 
 .missionTextSquare{
   position: absolute;
-    font-size:1vw;
-  top: 30%;
+  top: 25%;
   left: 8%;
   width: 35%;
   height: 53%;
@@ -78,7 +77,7 @@ p {
 }
 
 #wholepage{
-    width:1500px;
+    width:1900px;
     margin-right:auto;
     margin-left:auto;
 }
