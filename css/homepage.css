@@ -49,11 +49,12 @@ p {
 
 .missionTextSquare{
   position: absolute;
+    font-size:1vw;
   top: 30%;
   left: 8%;
   width: 35%;
   height: 53%;
-  margin : 1%;
+  margin : 3%;
   border: 5px solid rgba(0, 0, 0, 0);
   background-color: black;
 }
@@ -74,4 +75,10 @@ p {
 .engineer{
     background-color: skyblue;
     margin-left: 2%;
+}
+
+#wholepage{
+    width:1500px;
+    margin-right:auto;
+    margin-left:auto;
 }
