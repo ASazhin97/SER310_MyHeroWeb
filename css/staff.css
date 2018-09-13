@@ -1,0 +1,26 @@
+body {
+    background-color: whitesmoke;
+}
+
+h1 {
+  margin-top: 5%;
+  color: whitesmoke;
+  font-family: fantasy;
+  margin-left: 15%;
+  font-size: 300%;
+}
+
+p { 
+  font-size: 140%;
+  color: azure;
+  font-family: fantasy;
+  margin-left: 10%;
+  padding-right: 10%
+}
+
+.title {
+    color: whitesmoke;
+    font-family: fantasy;
+    font-size: 50px;
+    margin-left: 35%;
+}
