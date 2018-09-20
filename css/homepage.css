@@ -90,3 +90,7 @@ footer{
     margin-right:auto;
     margin-left:auto;
 }
+
+.foottext{
+    color: gainsboro;
+}
