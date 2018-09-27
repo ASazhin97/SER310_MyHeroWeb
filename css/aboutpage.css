@@ -1,0 +1,96 @@
+body {
+    background-color: whitesmoke;
+}
+
+
+
+h1 {
+  margin-top: 5%;
+  color: whitesmoke;
+  font-family: fantasy;
+  margin-left: 15%;
+  font-size: 300%;
+}
+
+p { 
+  font-size: 140%;
+  color: azure;
+  font-family: fantasy;
+  margin-left: 10%;
+  padding-right: 10%
+}
+
+.title {
+    color: whitesmoke;
+    font-family: fantasy;
+    font-size: 50px;
+    margin-left: 35%;
+}
+
+.landIMG{
+    padding-top: 12%;
+    padding-left: 25%;
+    width: 90%;
+}
+
+.learnButton{
+    text-align: right;
+}
+
+.program{
+    padding-top: 12%;
+}
+
+.program2{
+    padding-top: 19%;
+}
+
+.missionTextSquare{
+    position: absolute;
+    font-size: 0.9vw;
+    top: 25%;
+    left: 8%;
+    width: 35%;
+    margin: 5%;
+    border: 5px solid rgba(0, 0, 0, 0);
+    background-color: black;
+}
+
+.programsSummary{
+  float: left;
+  width: 38%;
+  height: 400px;
+  margin: 3%;
+  border: 1px solid rgba(0, 0, 0, 0);
+}
+
+.hero{
+    background-color: darkred;
+    margin-left: 9%;
+}
+
+.engineer{
+    background-color: skyblue;
+    margin-left: 2%;
+}
+
+/*-----footer----*/
+
+footer{
+    position: relative;
+    text-align: center;
+    font-size: 16px;
+    height: 100px;
+    margin-top: -100px;
+    background-color: #222;
+    clear: both;
+}
+
+#wholepage{
+    margin-right:auto;
+    margin-left:auto;
+}
+
+.foottext{
+    color: gainsboro;
+}
