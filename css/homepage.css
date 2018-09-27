@@ -1,0 +1,46 @@
+
+.jumbotron{
+    margin-top: 8%;
+}
+
+
+.title {
+    color: whitesmoke;
+    font-family: fantasy;
+    font-size: 50px;
+    margin-left: 35%;
+}
+
+.welcome-sign{
+   margin-left: 35%;
+   font-family: fantasy;
+   margin-bottom: 8%;
+   margin-top: 4%;
+   color: white;
+}
+
+.jumbotron{
+    margin-top: 10%;
+    background-image: url(myherocover.jpg);
+    background-size: 100%;
+}
+/*-----footer----*/
+
+footer{
+    position: relative;
+    text-align: center;
+    font-size: 16px;
+    height: 100px;
+    margin-top: -100px;
+    background-color: #222;
+    clear: both;
+}
+
+#wholepage{
+    margin-right:auto;
+    margin-left:auto;
+}
+
+.foottext{
+    color: gainsboro;
+}
