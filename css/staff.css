@@ -3,7 +3,10 @@ body {
     height: 100%;
 }
 
+.container-fluid{
+    font-size: 0.3vw;
 
+}
 
 html {
     height: 100%;
@@ -86,11 +89,11 @@ footer{
     min-height: 100%;
 }
 
-#footer{
+footer{
     position: relative;
     text-align: center;
     font-size: 16px;
-    height: 100px;
+    height: 60px;
     margin-top: -100px;
     background-color: #222;
 }

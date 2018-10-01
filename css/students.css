@@ -76,12 +76,13 @@ p {
 
 /*-----footer----*/
 
-footer{
-    position: relative;
+footer {
+    position: absolute;
     text-align: center;
     font-size: 16px;
-    height: 100px;
-    margin-top: -100px;
+    height: 60px;
+    width: 100%;
+    bottom: 0;
     background-color: #222;
     clear: both;
 }

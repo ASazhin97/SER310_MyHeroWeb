@@ -1,8 +1,11 @@
-
-.jumbotron{
-    margin-top: 8%;
+.navbar.navbar-1 .navbar-toggler-icon {
+    background-image: url('https://mdbootstrap.com/img/svg/hamburger6.svg?color=000');
 }
 
+.container-fluid {
+    font-size: 0.3vw;
+
+}
 
 .title {
     color: whitesmoke;
@@ -11,36 +14,39 @@
     margin-left: 35%;
 }
 
-.welcome-sign{
-   margin-left: 35%;
-   font-family: fantasy;
-   margin-bottom: 8%;
-   margin-top: 4%;
-   color: white;
+.welcome-sign {
+    margin-left: 35%;
+    font-size: 0.9vw;
+    font-family: fantasy;
+    margin-bottom: 8%;
+    margin-top: 4%;
+    color: white;
 }
 
-.jumbotron{
+.jumbotron {
     margin-top: 10%;
     background-image: url(myherocover.jpg);
     background-size: 100%;
 }
+
 /*-----footer----*/
 
-footer{
-    position: relative;
+footer {
+    position: absolute;
     text-align: center;
     font-size: 16px;
-    height: 100px;
-    margin-top: -100px;
+    height: 60px;
+    width: 100%;
+    bottom: 0;
     background-color: #222;
     clear: both;
 }
 
-#wholepage{
-    margin-right:auto;
-    margin-left:auto;
+#wholepage {
+    margin-right: auto;
+    margin-left: auto;
 }
 
-.foottext{
+.foottext {
     color: gainsboro;
 }
