@@ -76,15 +76,18 @@ p {
 
 /*-----footer----*/
 
-footer {
-    position: absolute;
+footer{
+    position: relative;
     text-align: center;
     font-size: 16px;
     height: 60px;
     width: 100%;
     bottom: 0;
     background-color: #222;
-    clear: both;
+}
+
+.carousel-indicators{
+    bottom: 75%;
 }
 
 #wholepage{
