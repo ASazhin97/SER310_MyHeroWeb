@@ -104,7 +104,7 @@ p {
     text-align: center;
     font-size: 30px;
     width: 450px;
-    margin: 10px 110px 0px 0px;
+    margin: 10px 120px 0px 0px;
 }
 
 .showcase-content ul{
@@ -158,6 +158,15 @@ p {
     font-size: 50px;
     width: 450px;
     margin: 10px 65px 0px 0px;
+}
+
+#showcase2 p1{
+    color: dimgray;
+    float: right;
+    text-align: center;
+    font-size: 30px;
+    width: 450px;
+    margin: 10px 120px 0px 0px;
 }
 
 .showcase-content2 ul{
@@ -214,6 +223,15 @@ p {
     margin: 10px 65px 0px 0px;
 }
 
+#showcase3 p1{
+    color: dimgray;
+    float: right;
+    text-align: center;
+    font-size: 30px;
+    width: 450px;
+    margin: 10px 120px 0px 0px;
+}
+
 .showcase-content3 ul{
     display: table;
     position: absolute;
@@ -265,6 +283,15 @@ p {
     font-size: 50px;
     width: 450px;
     margin: 10px 65px 0px 0px;
+}
+
+#showcase4 p1{
+    color: dimgray;
+    float: right;
+    text-align: center;
+    font-size: 30px;
+    width: 450px;
+    margin: 10px 120px 0px 0px;
 }
 
 .showcase-content4 ul{
