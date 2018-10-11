@@ -99,6 +99,29 @@ p {
     margin-top: 30px;
 }
 
+.showcase-content ul{
+    display: table;
+    position: absolute;
+    list-style: none;
+    float: right;
+    width: 480px;
+    margin-top: 230px;
+    margin-left: 550px;
+    padding: 0
+}
+
+
+.showcase-content ul li{
+    float: right;
+
+}
+
+.showcase-content ul li a{
+    padding: 0px 40px;
+    font-size: 20px;
+    color: dimgray;
+}
+
 #showcase2 {
     background: white;
     height: 300px;
@@ -128,6 +151,30 @@ p {
     width: 450px;
     margin-right: 65px;
     margin-top: 30px;
+}
+
+.showcase-content2 ul{
+    display: table;
+    position: absolute;
+    list-style: none;
+    float: right;
+    width: 480px;
+    margin-top: 230px;
+    margin-left: 550px;
+    padding: 0
+}
+
+
+.showcase-content2 ul li{
+    float: right;
+    margin-right: 40px;
+
+}
+
+.showcase-content2 ul li a{
+    padding: 0px 40px;
+    font-size: 20px;
+    color: dimgray;
 }
 
 #showcase3 {
@@ -161,6 +208,29 @@ p {
     margin-top: 30px;
 }
 
+.showcase-content3 ul{
+    display: table;
+    position: absolute;
+    list-style: none;
+    float: right;
+    width: 480px;
+    margin-top: 230px;
+    margin-left: 550px;
+    padding: 0
+}
+
+
+.showcase-content3 ul li{
+    float: right;
+
+}
+
+.showcase-content3 ul li a{
+    padding: 0px 40px;
+    font-size: 20px;
+    color: dimgray;
+}
+
 #showcase4 {
     background: white;
     height: 300px;
@@ -190,6 +260,29 @@ p {
     width: 450px;
     margin-right: 65px;
     margin-top: 30px;
+}
+
+.showcase-content4 ul{
+    display: table;
+    position: absolute;
+    list-style: none;
+    float: right;
+    width: 480px;
+    margin-top: 230px;
+    margin-left: 550px;
+    padding: 0
+}
+
+
+.showcase-content4 ul li{
+    float: right;
+
+}
+
+.showcase-content4 ul li a{
+    padding: 0px 40px;
+    font-size: 20px;
+    color: dimgray;
 }
 
 /*-----footer----*/
