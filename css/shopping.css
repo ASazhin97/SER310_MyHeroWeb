@@ -95,8 +95,16 @@ p {
     text-align: center;
     font-size: 50px;
     width: 450px;
-    margin-right: 65px;
-    margin-top: 30px;
+    margin: 10px 65px 0px 0px;
+}
+
+#showcase p1{
+    color: dimgray;
+    float: right;
+    text-align: center;
+    font-size: 30px;
+    width: 450px;
+    margin: 10px 110px 0px 0px;
 }
 
 .showcase-content ul{
@@ -149,8 +157,7 @@ p {
     text-align: center;
     font-size: 50px;
     width: 450px;
-    margin-right: 65px;
-    margin-top: 30px;
+    margin: 10px 65px 0px 0px;
 }
 
 .showcase-content2 ul{
@@ -204,8 +211,7 @@ p {
     text-align: center;
     font-size: 50px;
     width: 450px;
-    margin-right: 65px;
-    margin-top: 30px;
+    margin: 10px 65px 0px 0px;
 }
 
 .showcase-content3 ul{
@@ -258,8 +264,7 @@ p {
     text-align: center;
     font-size: 50px;
     width: 450px;
-    margin-right: 65px;
-    margin-top: 30px;
+    margin: 10px 65px 0px 0px;
 }
 
 .showcase-content4 ul{
