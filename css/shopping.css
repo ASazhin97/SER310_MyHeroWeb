@@ -60,50 +60,266 @@ p {
    font-family: fantasy; 
 }
 
+.logo{
+    margin-top: 7px;
+    margin-left: 80px;
+    margin-bottom: 0px;
+    float: left;
+    padding: 10px
+}
+
 #showcase {
-    background: dimgrey;
+    background: white;
     height: 300px;
     float: right;
+    border-radius: 30px;
     margin-left: 0px;
     margin-right: 200px;
     margin-top: 10px;
     margin-bottom: 10px;
+}
+
+#showcase h1{
+    color: dimgray;
+    float: right;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 0px;
+    width: 700px;
+    margin-top:10px;
+}
+
+#showcase p{
+    color: dimgray;
+    float: right;
+    text-align: center;
+    font-size: 50px;
+    width: 450px;
+    margin: 10px 65px 0px 0px;
+}
+
+#showcase p1{
+    color: dimgray;
+    float: right;
+    text-align: center;
+    font-size: 30px;
+    width: 450px;
+    margin: 10px 120px 0px 0px;
+}
+
+.showcase-content ul{
+    display: table;
+    position: absolute;
+    list-style: none;
+    float: right;
+    width: 480px;
+    margin-top: 240px;
+    margin-left: 550px;
+    padding: 0
+}
+
+
+.showcase-content ul li{
+    float: right;
+
+}
+
+.showcase-content ul li a{
+    padding: 0px 40px;
+    font-size: 20px;
+    color: dimgray;
 }
 
 #showcase2 {
-    background: dimgrey;
+    background: white;
     height: 300px;
     float: right;
+    border-radius: 30px;
     margin-left: 0px;
     margin-right: 200px;
     margin-top: 10px;
     margin-bottom: 10px;
+}
+
+#showcase2 h1{
+    color: dimgray;
+    float: right;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 0px;
+    width: 700px;
+    margin-top:10px;
+}
+
+#showcase2 p{
+    color: dimgray;
+    float: right;
+    text-align: center;
+    font-size: 50px;
+    width: 450px;
+    margin: 10px 65px 0px 0px;
+}
+
+#showcase2 p1{
+    color: dimgray;
+    float: right;
+    text-align: center;
+    font-size: 30px;
+    width: 450px;
+    margin: 10px 120px 0px 0px;
+}
+
+.showcase-content2 ul{
+    display: table;
+    position: absolute;
+    list-style: none;
+    float: right;
+    width: 480px;
+    margin-top: 240px;
+    margin-left: 550px;
+    padding: 0
+}
+
+
+.showcase-content2 ul li{
+    float: right;
+    margin-right: 40px;
+
+}
+
+.showcase-content2 ul li a{
+    padding: 0px 40px;
+    font-size: 20px;
+    color: dimgray;
 }
 
 #showcase3 {
-    background: dimgrey;
+    background: white;
     height: 300px;
     float: right;
+    border-radius: 30px;
     margin-left: 0px;
     margin-right: 200px;
     margin-top: 10px;
     margin-bottom: 10px;
 }
 
+#showcase3 h1{
+    color: dimgray;
+    float: right;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 0px;
+    width: 700px;
+    margin-top:10px;
+}
+
+#showcase3 p{
+    color: dimgray;
+    float: right;
+    text-align: center;
+    font-size: 50px;
+    width: 450px;
+    margin: 10px 65px 0px 0px;
+}
+
+#showcase3 p1{
+    color: dimgray;
+    float: right;
+    text-align: center;
+    font-size: 30px;
+    width: 450px;
+    margin: 10px 120px 0px 0px;
+}
+
+.showcase-content3 ul{
+    display: table;
+    position: absolute;
+    list-style: none;
+    float: right;
+    width: 480px;
+    margin-top: 240px;
+    margin-left: 550px;
+    padding: 0
+}
+
+
+.showcase-content3 ul li{
+    float: right;
+
+}
+
+.showcase-content3 ul li a{
+    padding: 0px 40px;
+    font-size: 20px;
+    color: dimgray;
+}
+
 #showcase4 {
-    background: dimgrey;
+    background: white;
     height: 300px;
     float: right;
+    border-radius: 30px;
     margin-left: 0px;
     margin-right: 200px;
     margin-top: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 30px;
+}
+
+#showcase4 h1{
+    color: dimgray;
+    float: right;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 0px;
+    width: 700px;
+    margin-top:10px;
+}
+
+#showcase4 p{
+    color: dimgray;
+    float: right;
+    text-align: center;
+    font-size: 50px;
+    width: 450px;
+    margin: 10px 65px 0px 0px;
+}
+
+#showcase4 p1{
+    color: dimgray;
+    float: right;
+    text-align: center;
+    font-size: 30px;
+    width: 450px;
+    margin: 10px 120px 0px 0px;
+}
+
+.showcase-content4 ul{
+    display: table;
+    position: absolute;
+    list-style: none;
+    float: right;
+    width: 480px;
+    margin-top: 240px;
+    margin-left: 550px;
+    padding: 0
 }
 
 .product-image{
    height: 20%;
 }
 
+
+.showcase-content4 ul li{
+    float: right;
+
+}
+
+.showcase-content4 ul li a{
+    padding: 0px 40px;
+    font-size: 20px;
+    color: dimgray;
+}
 
 /*-----footer----*/
 
