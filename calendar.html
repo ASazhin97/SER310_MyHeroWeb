@@ -7,9 +7,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/calendar.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap-year-calendar.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src=" https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
     </script>
+    <script src="js/bootstrap-year-calendar.min.js"></script>
+    <script src="js/bootstrap-year-calendar.js"></script>
 </head>
 
 <body>
@@ -52,24 +55,20 @@
     </nav>
     
 <div class = "wholepage">
-    <div class = row>
-        <div class = "col-sm-12 calendar-column">
+    
+<div class = "sub-content-container">
+    <h2 class = "sub-content-title">Calendar</h2>
+    <div class = "sub-content">
+        <div id = "calendar" class = "calendar">
             <div data-provide="calendar"></div>
         </div>
     </div>
-    
+</div>
     
 </div>
 
     <!-- footer -->
 
-    <footer id="footer">
-        <nav>
-            <ul>
-                <li class="nav-item foottext">Copyright @ 2018 UA Academy - Site by Alexandra Sazhin & David Nguyen</li>
-            </ul>
-        </nav>
-    </footer>
     
     
 </body>
