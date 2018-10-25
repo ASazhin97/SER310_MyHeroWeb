@@ -1,0 +1,37 @@
+.navbar.navbar-1 .navbar-toggler-icon {
+    background-image: url('https://mdbootstrap.com/img/svg/hamburger6.svg?color=000');
+}
+
+.container-fluid {
+    font-size: 0.3vw;
+
+}
+
+.title {
+    color: whitesmoke;
+    font-family: fantasy;
+    font-size: 50px;
+    margin-left: 35%;
+}
+
+/*-----footer----*/
+
+footer {
+    
+    text-align: center;
+    font-size: 16px;
+    height: 60px;
+    width: 100%;
+    bottom: 0;
+    background-color: #222;
+    clear: both;
+}
+
+#wholepage {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.foottext {
+    color: gainsboro;
+}
