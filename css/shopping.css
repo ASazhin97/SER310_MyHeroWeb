@@ -387,6 +387,24 @@ button {
     cursor: pointer;
 }
 
+.cross{
+  position: absolute;
+  top: 10px;
+  left: 12px;
+  background: #555;
+  color: #ddd;
+  font-weight: bold;
+  width: 22px;
+  height: 22px;
+  text-align: center;
+  border-radius: 11px;
+    cursor: pointer;
+}
+
+.cross:hover{
+    color: #fff;
+}
+
 /*// button animation //*/
 button:hover{
     animation: shake 0.6s infinite;
