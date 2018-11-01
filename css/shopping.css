@@ -345,8 +345,8 @@ p {
     color: #222;
     padding-bottom: 20px;
     width: 40%;
-    font-size: 5vh;
-    margin: 0px 0px 20px 20px;
+    font-size: 4.5vh;
+    margin: 20px 5px 20px 20px;
 }
 
 #pop-up .container p{
@@ -367,7 +367,7 @@ p {
 #pop-up input {
     padding: 15px;
     border: 0;
-    width: 55%;
+    width: 50%;
     margin-bottom: 5px;
     border-radius: 10px;
     border: 1px solid #222;
@@ -380,23 +380,10 @@ button {
     color: #fff;
     background: #222;
     margin-left: -5px;
-    margin-left: -5px;
+    margin-bottom: 10px;
     border-radius: 10px;
     border: 1px solid #333;
     font-size: 18px;
-}
-
-.cross {
-    position: absolute;
-    top: 10px;
-    left: 10px;
-    background: #555;
-    color: #ddd;
-    font-weight: bold;
-    width: 22px;
-    height: 22px;
-    text-align: center;
-    border-radius: 11px;
 }
 
 /*// pop-up animation //*/
